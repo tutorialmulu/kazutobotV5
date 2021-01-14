@@ -2,7 +2,7 @@
 * Om mau ngapain om, jangan om...
 * Hayo mau ngapainn
 * Jangan diganti kecuali yg gua bolehin!!!
-* By Fadhil Graphy
+* By ACHILLBOYY
 * TQTO ada di paling bawah!!!
 * cari report sama request ganti nomor lu!!!
 */
