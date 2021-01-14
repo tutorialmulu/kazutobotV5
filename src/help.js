@@ -9,8 +9,8 @@ const help = (prefix) => {
 ┃
 ┃⊱❥ *KAZUTOBOT*
 ┃⊱❥ *V 6.0*
-┃⊱❥ *http://wa.me/6288221608614*
-┃⊱❥ *Fadhil Graphy*             
+┃⊱❥ *http://wa.me/6281316105119*
+┃⊱❥ *achillboyy*             
 ┃
 ┣━━°❀ ❬ *TENTANG BOT* ❭ ❀°━━┓
 ┃
