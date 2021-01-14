@@ -221,11 +221,11 @@ const help = (prefix) => {
 ┣━━━━°❀ *❬ SOSMED ❭* ❀°━━━━⊱
 ┃
 ┃ *Ada masalah? Hub :*
-┃ _http://wa.me/6288221608614_
-┃ *Instagram :* @nur.fdhl_
+┃ _http://wa.me/6281316105119_
+┃ *Instagram :* @achillboyy._
 ┃ *YouTube :*
-┃ _Fadhil Graphy_
-┃ *Twitter :* @nurfdhl_
+┃ _Gratisan saja_
+┃ *Twitter :* @gratisansaja_
 ┃
 ┣━━━━°❀ *❬ NOTE ❭* ❀°━━━━━━⊱
 ┃
